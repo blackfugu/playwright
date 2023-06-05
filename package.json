@@ -1,0 +1,21 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackfugu/playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackfugu/playwright/issues"
+  },
+  "homepage": "https://github.com/blackfugu/playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.34.3"
+  }
+}
